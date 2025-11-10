@@ -7,7 +7,6 @@ export default function Home() {
     <div className="w-full h-[90%] flex flex-row items-center justify-center bg-[#0a0d12]">
       <div className=" w-[50%] h-full flex flex-row items-center justify-center pl-100">
         <img className="border-4 rounded-full border-red-500 w-100 h-100 bg-white" src="/b.jpg" alt="profile pic" width={100} height={100}/>
-
       </div>
       <div className=" w-[55%] h-full flex items-center ">
         <div className="w-[80%] h-[40%]">
